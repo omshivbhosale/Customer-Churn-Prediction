@@ -2,7 +2,7 @@
 
 Predicts which telecom customers are about to leave, explains **why**, and picks who to contact to **maximize profit**. Estimated value: **~$260K per year** vs doing nothing, and almost **2× more** than contacting every customer.
 
-**🔗 Live demo:** _coming soon_
+**🔗 Live demo:** [customer-churn-prediction-omkar.streamlit.app](https://customer-churn-prediction-omkar.streamlit.app/)
 
 ![Churn by contract](images/churn_by_Contract.png)
 
